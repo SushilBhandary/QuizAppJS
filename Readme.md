@@ -6,8 +6,8 @@ The website focuses on learning DOM manipulation .
 - querySelector
 - innerHTML
 
-## [Live Preview](https://click-counters.netlify.app/)
+## [Live Preview](https://quiz-app-simple-javascript.netlify.app/)
 
 ### SnapShot of the Webpage
 
-![StreetStyle](./Image/Quiz_app.pngg)
+![StreetStyle](./Image/Quiz_app.png)
